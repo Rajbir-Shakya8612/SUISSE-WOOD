@@ -81,21 +81,22 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <a href="index.html" class="nav-item nav-link">Home</a>
-                <a href="about.html" class="nav-item nav-link">About</a>
+                <a href="about" class="nav-item nav-link">About</a>
                 <a href="service.html" class="nav-item nav-link">Service</a>
                 <a href="project.html" class="nav-item nav-link">Products</a>
-                </div>
                 <a href="contact.html" class="nav-item nav-link">CONTACT</a>
+                </div>
             </div>
             <a href="" class="btn btn-primary  d-none d-lg-block mx-5">Login
                    </a>
+                  
         </div>
     </nav>
     <!-- Navbar End -->
 
 
     <!-- Carousel Start -->
-    <div class="container-fluid p-0 pb-5">
+    <!-- <div class="container-fluid p-0 pb-5">
         <div class="owl-carousel header-carousel position-relative">
             <div class="owl-carousel-item position-relative">
                 <img class="img-fluid" src="img/carousel-1.jpg" alt="">
@@ -161,5 +162,5 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Carousel End -->
