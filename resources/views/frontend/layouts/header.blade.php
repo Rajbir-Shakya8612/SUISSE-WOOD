@@ -85,7 +85,7 @@
                 <a href="service.html" class="nav-item nav-link">Service</a>
                 <a href="project.html" class="nav-item nav-link">Products</a>
                 </div>
-                <a href="contact.html" class="nav-item nav-link">Contact</a>
+                <a href="contact.html" class="nav-item nav-link">CONTACT</a>
             </div>
             <a href="" class="btn btn-primary  d-none d-lg-block mx-5">Login
                    </a>
