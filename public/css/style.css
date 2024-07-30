@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #e0a670;
+    --primary: #b14e1d;
     --light: #F5F5F5;
     --dark: #353535;
 }
@@ -78,6 +78,8 @@
 }
 
 /*** Navbar ***/
+/*** Navbar ***/
+
 .navbar .dropdown-toggle::after {
     border: none;
     content: "\f107";
@@ -116,6 +118,12 @@
 .navbar-light .navbar-brand,
 .navbar-light a.btn {
     /* height: 75px; */
+}
+
+
+.custom{
+    display: flex;
+    justify-content: space-around;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -256,6 +264,7 @@
 /*** Section Title ***/
 .section-title h1 {
     position: relative;
+    font-weight: 500;
     display: inline-block;
     padding: 0 60px;
 }
@@ -264,7 +273,7 @@
     padding-left: 0;
 }
 
-.section-title h1::before,
+/* .section-title h1::before,
 .section-title h1::after {
     position: absolute;
     content: "";
@@ -272,7 +281,7 @@
     height: 5px;
     bottom: 0;
     background: var(--dark);
-}
+} */
 
 .section-title h1::before {
     left: 0;
