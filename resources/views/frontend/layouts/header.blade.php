@@ -80,11 +80,11 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
-                <a href="index.html" class="nav-item nav-link">Home</a>
+                <a href="/" class="nav-item nav-link">Home</a>
                 <a href="about" class="nav-item nav-link">About</a>
-                <a href="service.html" class="nav-item nav-link">Service</a>
-                <a href="project.html" class="nav-item nav-link">Products</a>
-                <a href="contact.html" class="nav-item nav-link">CONTACT</a>
+                <a href="/services" class="nav-item nav-link">Services</a>
+                <a href="/projects" class="nav-item nav-link">Products</a>
+                <a href="/contact" class="nav-item nav-link">CONTACT</a>
                 </div>
             </div>
             <a href="" class="btn btn-primary  d-none d-lg-block mx-5">Login
