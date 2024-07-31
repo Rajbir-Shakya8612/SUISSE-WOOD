@@ -1,7 +1,5 @@
 @include('./frontend/layouts/header')
-
-
-    <!-- Carousel Start -->
+  <!-- Carousel Start -->
     <div class="container-fluid p-0 pb-5">
         <div class="owl-carousel header-carousel position-relative">
             <div class="owl-carousel-item position-relative">
@@ -70,10 +68,6 @@
         </div>
     </div>
     <!-- Carousel End -->
-
-
-
-
   <!-- Feature Start -->
     <div class="container-xxl py-5">
         <div class="container">
