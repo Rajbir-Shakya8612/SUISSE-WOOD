@@ -80,10 +80,10 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
-                <a href="index.html" class="nav-item nav-link">Home</a>
+                <a href="/" class="nav-item nav-link">Home</a>
                 <a href="about" class="nav-item nav-link">About</a>
                 <a href="service.html" class="nav-item nav-link">Service</a>
-                <a href="project.html" class="nav-item nav-link">Products</a>
+                <a href="/products" class="nav-item nav-link">Products</a>
                 <a href="contact.html" class="nav-item nav-link">CONTACT</a>
                 </div>
             </div>
@@ -93,6 +93,9 @@
         </div>
     </nav>
     <!-- Navbar End -->
+
+
+   
 
 
     <!-- Carousel Start -->
