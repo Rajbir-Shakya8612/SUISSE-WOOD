@@ -6,13 +6,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/about', function () {
-    return view('frontend.pages.about');
-});
-
-Route::get('/products', function () {
-    return view('frontend.pages.products');
-
 Route::get('/login', function () {
     return view('login');
 
@@ -24,5 +17,9 @@ Route::get('/admin', function () {
 
 Route::get('/about', function () {
     return view('frontend.pages.about');
+});
+
+Route::get('/products', function () {
+    return view('frontend.pages.products');
 });
 

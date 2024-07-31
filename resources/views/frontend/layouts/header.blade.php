@@ -84,8 +84,8 @@
 
                 <a href="/about" class="nav-item nav-link">About</a>
                 <a href="/service" class="nav-item nav-link">Service</a>
-                <a href="/project" class="nav-item nav-link">Products</a>
-                <a href="/contact" class="nav-item nav-link">CONTACT</a>
+                <a href="/products" class="nav-item nav-link">Products</a>
+                <a href="/contacts" class="nav-item nav-link">CONTACT</a>
 
                 </div>
             </div>
