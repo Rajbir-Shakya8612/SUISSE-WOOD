@@ -4,6 +4,8 @@
     --light: #F5F5F5;
     --dark: #353535;
     --theme-color:#0d6efd;
+    --dark-color: hsl(212, 40%, 12%);
+    --second-color: hsl(195, 75%, 52%);
 }
 
 a{

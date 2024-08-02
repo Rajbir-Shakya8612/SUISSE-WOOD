@@ -22,4 +22,7 @@ Route::get('/about', function () {
 Route::get('/products', function () {
     return view('frontend.pages.products');
 });
+Route::get('/product-detail', function () {
+    return view('frontend.pages.productDetail');
+});
 

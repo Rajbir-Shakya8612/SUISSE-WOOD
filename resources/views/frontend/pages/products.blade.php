@@ -32,7 +32,7 @@
                 <div class="swiper-wrapper">
 
 
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -42,7 +42,7 @@
                                 <h5 class="card-title capitalize">suisse club premium</h5>
                             <button class="px-10">View Product</button>
                         </a>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -52,7 +52,7 @@
                                 <h5 class="card-title capitalize">suisse club</h5>
                             <button class="px-10">View Product</button>
                         </a>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -62,7 +62,7 @@
                                 <h5 class="card-title capitalize">Suisse platinum pro</h5>
                             <button class="px-10">View Product</button>
                         </a>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -72,7 +72,7 @@
                                 <h5 class="card-title capitalize">Suisse marine ply</h5>
                             <button class="px-10">View Product</button>
                         </a>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -82,7 +82,7 @@
                                 <h5 class="card-title capitalize">Suisse platinum</h5>
                             <button class="px-10">View Product</button>
                         </a>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -92,7 +92,7 @@
                                 <h5 class="card-title capitalize">Suisse ultra</h5>
                             <button class="px-10">View Product</button>
                         </a>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -101,7 +101,7 @@
                             
                                 <h5 class="card-title capitalize">Suisse gold</h5>
                             <button class="px-10">View Product</button>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -111,7 +111,7 @@
                                 <h5 class="card-title capitalize">Suisse ultra pro</h5>
                             <button class="px-10">View Product</button>
                         </a>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -121,7 +121,7 @@
                                 <h5 class="card-title capitalize">Suisse mr ultra</h5>
                             <button class="px-10">View Product</button>
                         </a>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -159,7 +159,7 @@
                 <div class="swiper-wrapper">
 
 
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -169,7 +169,7 @@
                                 <h5 class="card-title capitalize">suisse club premium</h5>
                             <button class="px-10">View Product</button>
                         </a>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -179,7 +179,7 @@
                                 <h5 class="card-title capitalize">suisse club</h5>
                             <button class="px-10">View Product</button>
                         </a>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -189,7 +189,7 @@
                                 <h5 class="card-title capitalize">Suisse platinum pro</h5>
                             <button class="px-10">View Product</button>
                         </a>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -199,7 +199,7 @@
                                 <h5 class="card-title capitalize">Suisse marine ply</h5>
                             <button class="px-10">View Product</button>
                         </a>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -209,7 +209,7 @@
                                 <h5 class="card-title capitalize">Suisse platinum</h5>
                             <button class="px-10">View Product</button>
                         </a>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -219,7 +219,7 @@
                                 <h5 class="card-title capitalize">Suisse ultra</h5>
                             <button class="px-10">View Product</button>
                         </a>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -228,7 +228,7 @@
                             
                                 <h5 class="card-title capitalize">Suisse gold</h5>
                             <button class="px-10">View Product</button>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -238,7 +238,7 @@
                                 <h5 class="card-title capitalize">Suisse ultra pro</h5>
                             <button class="px-10">View Product</button>
                         </a>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -248,7 +248,7 @@
                                 <h5 class="card-title capitalize">Suisse mr ultra</h5>
                             <button class="px-10">View Product</button>
                         </a>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -287,7 +287,7 @@
                 <div class="swiper-wrapper">
 
 
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -297,7 +297,7 @@
                                 <h5 class="card-title capitalize">suisse club premium</h5>
                             <button class="px-10">View Product</button>
                         </a>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -307,7 +307,7 @@
                                 <h5 class="card-title capitalize">suisse club</h5>
                             <button class="px-10">View Product</button>
                         </a>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -317,7 +317,7 @@
                                 <h5 class="card-title capitalize">Suisse platinum pro</h5>
                             <button class="px-10">View Product</button>
                         </a>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -327,7 +327,7 @@
                                 <h5 class="card-title capitalize">Suisse marine ply</h5>
                             <button class="px-10">View Product</button>
                         </a>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -337,7 +337,7 @@
                                 <h5 class="card-title capitalize">Suisse platinum</h5>
                             <button class="px-10">View Product</button>
                         </a>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -347,7 +347,7 @@
                                 <h5 class="card-title capitalize">Suisse ultra</h5>
                             <button class="px-10">View Product</button>
                         </a>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -356,7 +356,7 @@
                             
                                 <h5 class="card-title capitalize">Suisse gold</h5>
                             <button class="px-10">View Product</button>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -366,7 +366,7 @@
                                 <h5 class="card-title capitalize">Suisse ultra pro</h5>
                             <button class="px-10">View Product</button>
                         </a>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
@@ -376,7 +376,7 @@
                                 <h5 class="card-title capitalize">Suisse mr ultra</h5>
                             <button class="px-10">View Product</button>
                         </a>
-                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                    <a href="/product-detail?productId=123456"  class="card swiper-slide" style="width: 18rem;">
                             <picture class="product-picture" >
                                 <img  width="100%"
                                 src="img/carousel-1.jpg"
