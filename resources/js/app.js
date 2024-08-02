@@ -27,10 +27,13 @@ let swiperCards = new Swiper(".card__content", {
     },
   
     breakpoints:{
-      600: {
+      500: {
         slidesPerView: 2,
       },
       968: {
+        slidesPerView: 3,
+      },
+      1024: {
         slidesPerView: 4,
       },
     },

@@ -18,95 +18,120 @@
 
 
 <section class="container">
+    <div class="section text-center product-brand-heading">
+        <h2 class="font-weight-bold"">Sussie Products</h2>
+    </div>
+
+   <!-- sussie plywood start  -->
+    <div class="product-slider">    
     <div class="card__container swiper">
-        <div class="section-title text-center">
-            <h1 class="display-5">Bestseller</h1>
+        <div class="section-title product-category-heading">
+            <h3 class="font-weight-bold"">Plywood</h3>
         </div>
-        <div class="card__content">
-            <div class="swiper-wrapper">
+        <div class=" card__content">
+                <div class="swiper-wrapper">
 
 
-
-                <div class="card swiper-slide" style="width: 18rem;">
-                    <img class="card-img-top" src="img/carousel-1.jpg" alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-
-                    </div>
-                </div>
-                <div class="card swiper-slide" style="width: 18rem;">
-                    <img class="card-img-top" src="img/carousel-1.jpg" alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-
-                    </div>
-                </div>
-                <div class="card swiper-slide" style="width: 18rem;">
-                    <img class="card-img-top" src="img/carousel-1.jpg" alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-
-                    </div>
-                </div>
-                <div class="card swiper-slide" style="width: 18rem;">
-                    <img class="card-img-top" src="img/carousel-1.jpg" alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-
-                    </div>
-                </div>
-                <div class="card swiper-slide" style="width: 18rem;">
-                    <img class="card-img-top" src="img/carousel-1.jpg" alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-
-                    </div>
-                </div>
-                <div class="card swiper-slide" style="width: 18rem;">
-                    <img class="card-img-top" src="img/carousel-1.jpg" alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-
-                    </div>
-                </div>
-                <div class="card swiper-slide" style="width: 18rem;">
-                    <img class="card-img-top" src="img/carousel-1.jpg" alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-
-                    </div>
-                </div>
-                <div class="card swiper-slide" style="width: 18rem;">
-                    <img class="card-img-top" src="img/carousel-1.jpg" alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-
-                    </div>
-                </div>
-
-
-
-
-
-
-
-            </div>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">suisse club premium</h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">suisse club</h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">Suisse platinum pro</h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">Suisse marine ply</h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">Suisse platinum</h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">Suisse ultra</h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">Suisse gold</h5>
+                            <button class="px-10">View Product</button>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">Suisse ultra pro</h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">Suisse mr ultra</h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">Suisse mr </h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                   
         </div>
 
         <!-- Navigation buttons -->
@@ -121,6 +146,265 @@
         <!-- Pagination -->
         <div class="swiper-pagination"></div>
     </div>
+    </div>
+      <!-- sussie plywood end  -->
+
+   <!-- sussie block board start-->
+    <div class="product-slider">    
+    <div class="card__container swiper">
+        <div class="section-title product-category-heading">
+            <h3 class="font-weight-bold"">Block Board</h3>
+        </div>
+        <div class=" card__content">
+                <div class="swiper-wrapper">
+
+
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">suisse club premium</h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">suisse club</h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">Suisse platinum pro</h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">Suisse marine ply</h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">Suisse platinum</h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">Suisse ultra</h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">Suisse gold</h5>
+                            <button class="px-10">View Product</button>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">Suisse ultra pro</h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">Suisse mr ultra</h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">Suisse mr </h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                   
+        </div>
+
+        <!-- Navigation buttons -->
+        <div class="swiper-button-next">
+            <i class="ri-arrow-right-s-line"></i>
+        </div>
+
+        <div class="swiper-button-prev">
+            <i class="ri-arrow-left-s-line"></i>
+        </div>
+
+        <!-- Pagination -->
+        <div class="swiper-pagination"></div>
+    </div>
+    </div>
+     <!-- sussie block board end-->
+
+
+     <!-- sussie Fulsh Door start-->
+    <div class="product-slider">    
+    <div class="card__container swiper">
+        <div class="section-title product-category-heading">
+            <h3 class="font-weight-bold"">Fulsh Door</h3>
+        </div>
+        <div class=" card__content">
+                <div class="swiper-wrapper">
+
+
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">suisse club premium</h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">suisse club</h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">Suisse platinum pro</h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">Suisse marine ply</h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">Suisse platinum</h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">Suisse ultra</h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">Suisse gold</h5>
+                            <button class="px-10">View Product</button>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">Suisse ultra pro</h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">Suisse mr ultra</h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                    <a href=""  class="card swiper-slide" style="width: 18rem;">
+                            <picture class="product-picture" >
+                                <img  width="100%"
+                                src="img/carousel-1.jpg"
+                                alt="Green Club 700 Plywood">
+                            </picture>
+                            
+                                <h5 class="card-title capitalize">Suisse mr </h5>
+                            <button class="px-10">View Product</button>
+                        </a>
+                   
+        </div>
+
+        <!-- Navigation buttons -->
+        <div class="swiper-button-next">
+            <i class="ri-arrow-right-s-line"></i>
+        </div>
+
+        <div class="swiper-button-prev">
+            <i class="ri-arrow-left-s-line"></i>
+        </div>
+
+        <!-- Pagination -->
+        <div class="swiper-pagination"></div>
+    </div>
+    </div>
+     <!-- sussie fulsh door end-->
+
+
 </section>
 
 
