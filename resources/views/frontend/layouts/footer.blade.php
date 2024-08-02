@@ -73,7 +73,8 @@
     <script src="lib/isotope/isotope.pkgd.min.js"></script>
     <script src="lib/lightbox/js/lightbox.min.js"></script>
     <script src="js/main.js"></script>
-
+    <script src="js/swiper-bundle.min.js"></script>
+  
 
 </body>
 

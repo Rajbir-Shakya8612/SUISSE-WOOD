@@ -1,6 +1,75 @@
 @import 'bootstrap/dist/css/bootstrap.min.css';
 
 
+
+
+
+
+/* about us page css start */
+.p_120 {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.about_area .about_inner .col-lg-6 {
+  vertical-align: middle;
+  align-self: center; }
+.about_area .about_inner .about_left_text h6 {
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #c6b069;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 1.2px;
+  margin-bottom: 20px; }
+.about_area .about_inner .about_left_text h3 {
+  font-size: 36px;
+  line-height: 45px;
+  color: #222222;
+  text-transform: uppercase;
+  margin-bottom: 25px; }
+.about_area .about_inner .about_left_text h5 {
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  color: #222222;
+  margin-bottom: 10px; }
+.about_area .about_inner .about_left_text p {
+  margin-bottom: 0px; }
+.about_area .about_inner .about_left_text .main_btn {
+  margin-top: 40px; }
+
+  .feature_inner {
+    margin-bottom: -30px; }
+  
+  .feature_item {
+    background: #f9f9ff;
+    border-radius: 10px;
+    padding: 40px 60px 40px 40px;
+    margin-bottom: 30px;
+    transition: all 300ms linear 0s; }
+    .feature_item h4 {
+      font-size: 18px;
+      color: #222222;
+      margin-bottom: 20px;
+      text-transform: uppercase;
+      transition: all 300ms linear 0s;
+      position: relative;
+      padding-left: 35px; }
+      .feature_item h4 i {
+        font-size: 24px;
+        padding-right: 15px;
+        font-weight: 600;
+        position: absolute;
+        left: 0px;
+        top: 40%;
+        transform: translateY(-50%); }
+    .feature_item p {
+      margin-bottom: 0px; }
+    .feature_item:hover {
+      background: #fff;
+      box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.1); }
+      .feature_item:hover h4 {
+        color: #faba00; }
+
 .banner_area {
   position: relative;
   z-index: 1;
@@ -166,6 +235,137 @@
 
 
 
+/* product section css */
+
+/*=============== GOOGLE FONTS ===============*/
+@import url("https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;500;600&display=swap");
+
+/*=============== VARIABLES CSS ===============*/
+:root {
+  /*========== Colors ==========*/
+  /*Color mode HSL(hue, saturation, lightness)*/
+  --first-color: hsl(38, 92%, 58%);
+  --first-color-light: hsl(38, 100%, 78%);
+  --first-color-alt: hsl(32, 75%, 50%);
+  --second-color: hsl(195, 75%, 52%);
+  --dark-color: hsl(212, 40%, 12%);
+  --white-color: hsl(212, 4%, 95%);
+  --body-color: hsl(212, 42%, 15%);
+  --container-color: hsl(212, 42%, 20%);
+
+  /*========== Font and typography ==========*/
+  /*.5rem = 8px | 1rem = 16px ...*/
+  --body-font: "Bai Jamjuree", sans-serif;
+  --h2-font-size: 1.25rem;
+  --normal-font-size: 1rem;
+}
+
+/*=============== BASE ===============*/
+
+.card__container p{
+  color: var(--dark-color);
+}
 
 
 
+/*=============== CARD ===============*/
+
+
+.card__container {
+  padding-block: 5rem;
+  /* width: 1500px; */
+}
+
+.card__content {
+
+  border-radius: 1.25rem;
+  overflow: hidden;
+ 
+}
+
+
+/* Swiper class */
+.swiper-button-prev:after,
+.swiper-button-next:after {
+  content: "";
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  width: initial;
+  height: initial;
+  font-size: 3rem;
+  color: var(--second-color);
+  display: none;
+}
+
+.swiper-button-prev {
+  left: 0;
+}
+
+.swiper-button-next {
+  right: 0;
+}
+
+.swiper-pagination-bullet {
+  background-color: hsl(212, 32%, 40%);
+  opacity: 1;
+  display: none;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: var(--second-color);
+}
+
+/*=============== BREAKPOINTS ===============*/
+/* For small devices */
+@media screen and (max-width: 320px) {
+  .card__data {
+    padding: 1rem;
+  }
+}
+
+/* For medium devices */
+@media screen and (min-width: 768px) {
+  .card__content {
+    margin-inline: 3rem;
+  }
+
+  .swiper-button-next,
+  .swiper-button-prev {
+    display: block;
+  }
+}
+
+/* For large devices */
+@media screen and (min-width: 1120px) {
+  .card__container {
+    max-width: 1400px;
+  }
+
+  .swiper-button-prev {
+    left: -1rem;
+  }
+  .swiper-button-next {
+    right: -1rem;
+  }
+}
+
+
+
+
+
+.card-img-top {
+  height: 300px; /* Adjust height as needed */
+  object-fit: cover;
+}
+.card-body .card-title {
+  font-size: 1.25rem; /* Smaller title text */
+}
+.card-body .card-text {
+  font-size: 0.875rem; /* Smaller body text */
+}
+.list-group-item {
+  padding-top: 0.25rem; /* Adjust top padding */
+  padding-bottom: 0.25rem; /* Adjust bottom padding */
+}

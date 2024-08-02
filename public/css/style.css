@@ -5,6 +5,10 @@
     --dark: #353535;
 }
 
+a{
+    text-decoration: none;
+}
+
 .fw-medium {
     font-weight: 500 !important;
 }
@@ -48,6 +52,7 @@ a{
 .btn {
     font-weight: 500;
     transition: .5s;
+    text-decoration: none;
 }
 
 .btn.btn-primary,

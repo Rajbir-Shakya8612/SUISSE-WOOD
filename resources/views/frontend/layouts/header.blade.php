@@ -21,11 +21,18 @@
     <!-- Icon Font Stylesheet -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
-
     <!-- Libraries Stylesheet -->
-    <link href="lib/animate/animate.min.css" rel="stylesheet">
-    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+     <!--=============== REMIXICONS ===============-->
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.css" crossorigin="">
+
+<!--=============== SWIPER CSS ===============-->
+<link rel="stylesheet" href="css/swiper-bundle.min.css">
+
+<!--=============== CSS ===============-->
+<!-- <link rel="stylesheet" href="assets/css/styles.css"> -->
+
+    <!-- for product carousel  -->
+
 
     
 
@@ -40,17 +47,17 @@
     <div class="container-fluid bg-light p-0">
         <div class="row gx-0 d-none d-lg-flex">
             <div class="col-lg-7 px-5 text-start">
-                <div class="h-100 d-inline-flex align-items-center py-3 me-4">
+                <div class="h-100 d-inline-flex align-items-center py-3 me-4 text-primary">
                     <small class="fa fa-map-marker-alt text-primary me-2"></small>
-                    <small>Khajuri road, Yamunanagar, India</small>
+                    <small class="">Khajuri road, Yamunanagar, India</small>
                 </div>
-                <div class="h-100 d-inline-flex align-items-center py-3">
+                <div class="h-100 d-inline-flex align-items-center py-3 text-primary">
                     <small class="far fa-clock text-primary me-2"></small>
                     <small>Mon - Sat : 10.00 AM - 07.00 PM</small>
                 </div>
             </div>
             <div class="col-lg-5 px-5 text-end">
-                <div class="h-100 d-inline-flex align-items-center py-3 me-4">
+                <div class="h-100 d-inline-flex align-items-center py-3 me-4 text-primary">
                     <small class="fa fa-phone-alt text-primary me-2"></small>
                     <small>+91 88751-44123</small>
                 </div>
@@ -80,12 +87,12 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
+                
                 <a href="/" class="nav-item nav-link">Home</a>
-
                 <a href="/about" class="nav-item nav-link">About</a>
-                <a href="/service" class="nav-item nav-link">Service</a>
                 <a href="/products" class="nav-item nav-link">Products</a>
-                <a href="/contacts" class="nav-item nav-link">CONTACT</a>
+                <a href="#services" class="nav-item nav-link">Services</a>
+                <a href="/contact" class="nav-item nav-link">CONTACT</a>
 
                 </div>
             </div>

@@ -316,117 +316,75 @@
     </div>
     <!-- Feature End -->
 
-
-    <!-- Projects Start -->
-    <!-- <div class="container-xxl py-5 my-5">
+    <section class="container-xxl py-5" id="services>
         <div class="container">
             <div class="section-title text-center">
-                <h1 class="display-5 mb-5">Our Projects</h1>
+                <h1 class="display-5 mb-5">Services</h1>
             </div>
-            <div class="row mt-n2 wow fadeInUp" data-wow-delay="0.3s">
-                <div class="col-12 text-center">
-                    <ul class="list-inline mb-5" id="portfolio-flters">
-                        <li class="mx-2 active" data-filter="*">All</li>
-                        <li class="mx-2" data-filter=".first">General Carpentry</li>
-                        <li class="mx-2" data-filter=".second">Custom Carpentry</li>
-                    </ul>
-                </div>
-            </div>
-            <div class="row g-4 portfolio-container">
-                <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="rounded overflow-hidden">
-                        <div class="position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="img/portfolio-1.jpg" alt="">
-                            <div class="portfolio-overlay">
-                                <a class="btn btn-square btn-outline-light mx-1" href="img/portfolio-1.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
-                            </div>
-                        </div>
-                        <div class="border border-5 border-light border-top-0 p-4">
-                            <p class="text-primary fw-medium mb-2">General Carpentry</p>
-                            <h5 class="lh-base mb-0">Wooden Furniture Manufacturing And Remodeling</a>
+            <div class="row g-6">
+                <div class="col-md-6 col-lg-4 wow fadeInUp p-3" data-wow-delay="0.1s">
+                    <div class="service-item">
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3">Plywood</h4>
+                            <p>Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="rounded overflow-hidden">
-                        <div class="position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="img/portfolio-2.jpg" alt="">
-                            <div class="portfolio-overlay">
-                                <a class="btn btn-square btn-outline-light mx-1" href="img/portfolio-2.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
-                            </div>
-                        </div>
-                        <div class="border border-5 border-light border-top-0 p-4">
-                            <p class="text-primary fw-medium mb-2">Custom Carpentry</p>
-                            <h5 class="lh-base mb-0">Wooden Furniture Manufacturing And Remodeling</a>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="service-item">
+    
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3">Block Board</h4>
+                            <p>Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.</p>
+    
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="rounded overflow-hidden">
-                        <div class="position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="img/portfolio-3.jpg" alt="">
-                            <div class="portfolio-overlay">
-                                <a class="btn btn-square btn-outline-light mx-1" href="img/portfolio-3.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
-                            </div>
-                        </div>
-                        <div class="border border-5 border-light border-top-0 p-4">
-                            <p class="text-primary fw-medium mb-2">General Carpentry</p>
-                            <h5 class="lh-base mb-0">Wooden Furniture Manufacturing And Remodeling</a>
+                <div class="p-2 col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="service-item">
+
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3">Fulsh</h4>
+                            <p>Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.</p>
+                            
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="rounded overflow-hidden">
-                        <div class="position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="img/portfolio-4.jpg" alt="">
-                            <div class="portfolio-overlay">
-                                <a class="btn btn-square btn-outline-light mx-1" href="img/portfolio-4.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
-                            </div>
-                        </div>
-                        <div class="border border-5 border-light border-top-0 p-4">
-                            <p class="text-primary fw-medium mb-2">Custom Carpentry</p>
-                            <h5 class="lh-base mb-0">Wooden Furniture Manufacturing And Remodeling</a>
+                <div class="p-2 col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item">
+
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3">Laminates</h4>
+                            <p>Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.</p>
+                            
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="rounded overflow-hidden">
-                        <div class="position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="img/portfolio-5.jpg" alt="">
-                            <div class="portfolio-overlay">
-                                <a class="btn btn-square btn-outline-light mx-1" href="img/portfolio-5.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
-                            </div>
-                        </div>
-                        <div class="border border-5 border-light border-top-0 p-4">
-                            <p class="text-primary fw-medium mb-2">General Carpentry</p>
-                            <h5 class="lh-base mb-0">Wooden Furniture Manufacturing And Remodeling</a>
+                <div class="p-2 col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="service-item">
+                        
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3">WPC</h4>
+                            <p>Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.</p>
+                           
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="rounded overflow-hidden">
-                        <div class="position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="img/portfolio-6.jpg" alt="">
-                            <div class="portfolio-overlay">
-                                <a class="btn btn-square btn-outline-light mx-1" href="img/portfolio-6.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
-                            </div>
-                        </div>
-                        <div class="border border-5 border-light border-top-0 p-4">
-                            <p class="text-primary fw-medium mb-2">Custom Carpentry</p>
-                            <h5 class="lh-base mb-0">Wooden Furniture Manufacturing And Remodeling</a>
+                <div class="p-2 col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="service-item">
+    
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3">Custom Work</h4>
+                            <p>Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div> -->
-    <!-- Projects End -->
+    </section>
+    
+
+  
 
 
     <!-- Quote Start -->
@@ -458,9 +416,12 @@
                                 <div class="col-12 col-sm-6">
                                     <select class="form-select border-0" style="height: 55px;">
                                         <option selected>Select A Service</option>
-                                        <option value="1">Service 1</option>
-                                        <option value="2">Service 2</option>
-                                        <option value="3">Service 3</option>
+                                        <option value="plywood">Plywood</option>
+                                        <option value="block-board">Block Board</option>
+                                        <option value="fulsh-door">Fulsh Door</option>
+                                        <option value="lamiantes">Lamiantes</option>
+                                        <option value="wpc">WPC</option>
+                                        <option value="other">other</option>
                                     </select>
                                 </div>
                                 <div class="col-12">
