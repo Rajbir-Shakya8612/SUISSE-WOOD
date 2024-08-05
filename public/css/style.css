@@ -7,6 +7,9 @@
     --dark-color: hsl(212, 40%, 12%);
     --second-color: hsl(195, 75%, 52%);
 }
+/* body{
+    overflow-x: hidden;
+} */
 
 a{
     text-decoration: none;

@@ -45,7 +45,7 @@
 
 <body>
     <!-- Topbar Start -->
-    <div class="container-fluid bg-light p-0">
+    <!-- <div class="container-fluid bg-light p-0">
         <div class="row gx-0 d-none d-lg-flex">
             <div class="col-lg-7 px-5 text-start">
                 <div class="h-100 d-inline-flex align-items-center py-3 me-4 text-primary">
@@ -74,14 +74,14 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Topbar End -->
 
 
     <!-- Navbar Start -->
     <nav class="navbar custom navbar-expand-lg bg-white navbar-light sticky-top p-0 flex ">
         <a href="index.html" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
-            <h2 class="m-0 text-primary">SuissE WooD</h2>
+           <img src="img/main-logo.png" alt="" style="width:170px;height:33px">
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -93,7 +93,7 @@
                 <a href="/about" class="nav-item nav-link">About</a>
                 <a href="/products" class="nav-item nav-link">Products</a>
                 <a href="#services" class="nav-item nav-link">Services</a>
-                <a href="/contact" class="nav-item nav-link">CONTACT</a>
+                <a href="/contact" class="nav-item nav-link">Contact</a>
 
                 </div>
             </div>

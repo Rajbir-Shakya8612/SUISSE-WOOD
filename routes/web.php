@@ -8,7 +8,12 @@ Route::get('/', function () {
 
 Route::get('/login', function () {
     return view('login');
-
+});
+Route::get('/reset/request', function () {
+    return view('reset');
+});
+Route::get('/reset/request-sent', function () {
+    return view('reset-request');
 });
 
 Route::get('/admin', function () {
@@ -22,7 +27,24 @@ Route::get('/about', function () {
 Route::get('/products', function () {
     return view('frontend.pages.products');
 });
+
 Route::get('/product-detail', function () {
     return view('frontend.pages.productDetail');
+
+
 });
+
+
+
+
+
+// Route::get('/auth/login', function () {
+//     return view('frontend.pages.login');
+// });
+// Route::get('/auth/reset', function () {
+//     return view('frontend.pages.login');
+// });
+// Route::get('/auth/reset/email-sent', function () {
+//     return view('frontend.pages.login');
+// });
 

@@ -35,26 +35,25 @@
              <div>
                   <div class="size">
                     <div class="parameter">
-                      <small>Thickness available</small>
-                      <div>
+                      <small>Thickness</small>
+                      <select name="" id="">
+                        <option value="06mm">06mm</option>
+                        <option value="06mm">09mm</option>
+                        <option value="06mm">12mm</option>
+                        <option value="06mm">16mm</option>
+                        <option value="06mm">18mm</option>
+                      </select>
 
-                        <span>06mm</span>
-                        <span>09mm</span>
-                        <span>12mm</span>
-                        <span>16mm</span>
-                        <span>18mm</span>
-                      </div>
                     </div>
                     <div class="parameter">
-                      <small>Size available</small>
-                      <div>
-
-                        <span>8x4</span>
-                        <span>7x4</span>
-                        <span>7x3</span>
-                        <span>6x4</span>
-                        <span>6x3</span>
-                      </div>
+                      <small>Size</small>
+                      <select name="" id="">
+                        <option value="06mm">06mm</option>
+                        <option value="06mm">09mm</option>
+                        <option value="06mm">12mm</option>
+                        <option value="06mm">16mm</option>
+                        <option value="06mm">18mm</option>
+                      </select>
                     </div>
                   </div>
              </div>
