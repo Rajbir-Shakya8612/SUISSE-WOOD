@@ -79,7 +79,7 @@
 
 
     <!-- Navbar Start -->
-    <nav class="navbar custom navbar-expand-lg bg-white navbar-light sticky-top p-0 flex ">
+    <nav class="navbar custom navbar-expand-lg bg-white navbar-light sticky-top p-0 ">
         <a href="index.html" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
            <img src="img/main-logo.png" alt="" style="width:170px;height:33px">
         </a>
@@ -92,13 +92,19 @@
                 <a href="/" class="nav-item nav-link">Home</a>
                 <a href="/about" class="nav-item nav-link">About</a>
                 <a href="/products" class="nav-item nav-link">Products</a>
-                <a href="#services" class="nav-item nav-link">Services</a>
+                <a href="#services" class="nav-item nav-link d-none">Services</a>
                 <a href="/contact" class="nav-item nav-link">Contact</a>
+   
+                <div class="action-button">
 
+<a href="" class="btn btn-primary  ">Find contracter
+    </a>
+<a href="" class="btn btn-primary ">Login
+    </a>
+    </div>
                 </div>
             </div>
-            <a href="" class="btn btn-primary  d-none d-lg-block mx-5">Login
-                   </a>
+           
                   
         </div>
     </nav>

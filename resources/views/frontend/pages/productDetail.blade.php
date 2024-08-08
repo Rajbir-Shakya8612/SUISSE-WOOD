@@ -55,6 +55,10 @@
                         <option value="06mm">18mm</option>
                       </select>
                     </div>
+                    <div class="parameter">
+                      <small>Quantity</small>
+                      <input type="number">
+                    </div>
                   </div>
              </div>
              <div class="inquiry">

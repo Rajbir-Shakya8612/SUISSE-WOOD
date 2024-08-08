@@ -321,8 +321,8 @@
             <div class="section-title text-center">
                 <h1 class="display-5 mb-5">Services</h1>
             </div>
-            <div class="row g-6">
-                <div class="col-md-6 col-lg-4 wow fadeInUp p-3" data-wow-delay="0.1s">
+            <div class="row g-6 services-el">
+                <div class="col-md-6 col-lg-4 wow fadeInUp p-3 " data-wow-delay="0.1s">
                     <div class="service-item">
                         <div class="p-4 text-center border border-5 border-light border-top-0">
                             <h4 class="mb-3">Plywood</h4>
@@ -441,7 +441,7 @@
 
 
     <!-- Team Start -->
-    <div class="container-xxl py-5">
+    <div class="container-xxl py-5 d-none">
         <div class="container">
             <div class="section-title text-center">
                 <h1 class="display-5 mb-5">Team Members</h1>
@@ -518,7 +518,7 @@
 
 
     <!-- Testimonial Start -->
-    <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container-xxl py-5 wow fadeInUp d-none" data-wow-delay="0.1s">
         <div class="container">
             <div class="section-title text-center">
                 <h1 class="display-5 mb-5">Testimonial</h1>
