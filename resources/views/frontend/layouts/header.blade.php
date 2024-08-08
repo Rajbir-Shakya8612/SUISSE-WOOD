@@ -21,21 +21,21 @@
     <!-- Icon Font Stylesheet -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
-  
+
     <!-- Libraries Stylesheet -->
-     <!--=============== REMIXICONS ===============-->
-     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.css" crossorigin="">
+    <!--=============== REMIXICONS ===============-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.css" crossorigin="">
 
-<!--=============== SWIPER CSS ===============-->
-<link rel="stylesheet" href="css/swiper-bundle.min.css">
+    <!--=============== SWIPER CSS ===============-->
+    <link rel="stylesheet" href="css/swiper-bundle.min.css">
 
-<!--=============== CSS ===============-->
-<!-- <link rel="stylesheet" href="assets/css/styles.css"> -->
+    <!--=============== CSS ===============-->
+    <!-- <link rel="stylesheet" href="assets/css/styles.css"> -->
 
     <!-- for product carousel  -->
 
 
-    
+
 
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 
@@ -81,31 +81,30 @@
     <!-- Navbar Start -->
     <nav class="navbar custom navbar-expand-lg bg-white navbar-light sticky-top p-0 ">
         <a href="index.html" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
-           <img src="img/main-logo.png" alt="" style="width:170px;height:33px">
+            <img src="img/main-logo.png" alt="" style="width:170px;height:33px">
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
-                
+
                 <a href="/" class="nav-item nav-link">Home</a>
                 <a href="/about" class="nav-item nav-link">About</a>
                 <a href="/products" class="nav-item nav-link">Products</a>
                 <a href="#services" class="nav-item nav-link d-none">Services</a>
                 <a href="/contact" class="nav-item nav-link">Contact</a>
-   
+
                 <div class="action-button">
 
-<a href="" class="btn btn-primary  ">Find contracter
-    </a>
-<a href="" class="btn btn-primary ">Login
-    </a>
-    </div>
+                    <a href="" class="btn btn-primary  ">Find contracter
+                    </a>
+                    <a href="{{ route('user-login') }}" class="btn btn-primary ">Login
+                    </a>
                 </div>
             </div>
-           
-                  
+        </div>
+
         </div>
     </nav>
     <!-- Navbar End -->

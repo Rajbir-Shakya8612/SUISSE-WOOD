@@ -38,13 +38,13 @@ Route::get('/product-detail', function () {
 
 
 
-// Route::get('/auth/login', function () {
-//     return view('frontend.pages.login');
-// });
-// Route::get('/auth/reset', function () {
-//     return view('frontend.pages.login');
-// });
-// Route::get('/auth/reset/email-sent', function () {
-//     return view('frontend.pages.login');
-// });
+Route::get('/auth/login', function () {
+    return view('login');
+})->name('user-login');
+Route::get('/auth/reset', function () {
+    return view('reset-request');
+});
+Route::get('/auth/reset/email-sent', function () {
+    return view('reset');
+});
 
