@@ -9,7 +9,7 @@
 						<h2>About Us</h2>
 						<div class="page_link">
 							<a href="/">Home/</a>
-							<a href="/about">About Us</a>
+							<a href="/about">About</a>
 						</div>
 					</div>
 				</div>
@@ -34,38 +34,7 @@
         		</div>
         	</div>
         </section>
-        <!-- <section class="projects_area">
-        	<div class="row m0">
-        		<div class="projects_item wd_18">
-					<img src="img/projects/projects-1.jpg" alt="">
-					<div class="hover">
-						<h4>Alex Complex for esidence</h4>
-						<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create  slimmer.</p>
-					</div>
-				</div>
-				<div class="projects_item wd_18">
-					<img src="img/projects/projects-2.jpg" alt="">
-					<div class="hover">
-						<h4>Alex Complex for esidence</h4>
-						<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create  slimmer.</p>
-					</div>
-				</div>
-				<div class="projects_item wd_44">
-					<img src="img/projects/projects-3.jpg" alt="">
-					<div class="hover">
-						<h4>Alex Complex for esidence</h4>
-						<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create  slimmer.</p>
-					</div>
-				</div>
-				<div class="projects_item wd_18">
-					<img src="img/projects/projects-4.jpg" alt="">
-					<div class="hover">
-						<h4>Alex Complex for esidence</h4>
-						<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create  slimmer.</p>
-					</div>
-				</div>
-        	</div>
-        </section> -->
+      
 
         <section class="feature_area ">
         	<div class="container">

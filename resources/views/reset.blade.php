@@ -51,39 +51,27 @@
 
     <a href="index.html" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
            <img src="../img/main-logo.png" alt="" style="width:170px;height:33px">
-        </a>
+    </a>
     <form>
-        <!-- Email input -->
+    <p>Do not worry, you will receive an email with instructions to reset your password. Please enter you login email.</p>
 
+        <!-- Email input -->
         <div data-mdb-input-init class="form-outline mb-4">
             <label class="form-label" for="form2Example1">Email address</label>
             <input name="email" type="email" id="form2Example1" class="form-control" />
         </div>
 
-        <!-- Password input -->
-        <div data-mdb-input-init class="form-outline mb-4">
-            <label class="form-label" for="form2Example2">Password</label>
-            <input name="password" type="password" id="form2Example2" class="form-control" />
-        </div>
-
+       
         <!-- 2 column grid layout for inline styling -->
         <div class="row mb-4">
-            <div class="col d-flex justify-content-center">
-                <!-- Checkbox -->
-                <div class="form-check">
-                    <input name="remember" class="form-check-input" type="checkbox" value="" id="form2Example31" checked />
-                    <label class="form-check-label" for="form2Example31"> Remember me </label>
-                </div>
-            </div>
-
             <div class="col">
                 <!-- Simple link -->
-                <a href="/reset/request">Forgot password?</a>
+                <a href="/login">Back to login</a>
             </div>
         </div>
 
         <!-- Submit button -->
-        <button type="button" data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-block mb-4">Login</button>
+        <button type="button" data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-block mb-4">Reset your password</button>
     </form>
 
 
