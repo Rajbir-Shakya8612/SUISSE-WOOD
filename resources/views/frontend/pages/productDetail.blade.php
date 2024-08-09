@@ -68,7 +68,10 @@
     </div>
     <div class="row mt-5">
         <div class="col-12 features">
-            <h3>Features</h3>
+        <ul class="menu-items">
+                        <li class="active">Features</li>
+                        <li>Warranty</li>
+                    </ul>
             <div style="width:100%;border-top:1px solid silver">
              
                     <ul class="features-list">

@@ -49,7 +49,7 @@
 
     <div class="login_container">
 
-    <a href="index.html" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
+    <a href="/" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
            <img src="../img/main-logo.png" alt="" style="width:170px;height:33px">
     </a>
     <form>
